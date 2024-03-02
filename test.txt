@@ -1,1 +1,1 @@
-I'm using SmartGit, Hello World
+I'm using SmartGit to push this file
